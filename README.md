@@ -1,9 +1,9 @@
 # Generative-AI-document-chatbot
-The generative AI document chatbot utilizes large language models (LLMs) to intelligently answer user queries. By processing the uploaded dataset, it provides context-specific, accurate, and relevant responses, ensuring users receive precise information tailored to their needs in real-time.
+The generative AI document chatbot utilizes large language models (LLMs) to intelligently answer user queries. By processing the uploaded dataset, it provides context-specific, accurate, and relevant responses, ensuring users receive precise information tailored to their needs in real-time with i used Ngrok is a cross-platform application that creates secure tunnels (paths) to localhost machine .
 
 I use this bot to create a Legal document chatbot specifically for Indian IPC to answer quires you can tailor the bot based on the context of use  
 
-Usage
+USEAGE 
 Run the Streamlit app by executing:
 streamlit run main.py
 2.The web app will open in your browser.
